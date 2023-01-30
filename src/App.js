@@ -27,7 +27,7 @@ function App() {
       <div className='contenedor-principal'>
         <Contador numClics={numClics} />
         <Boton 
-          texto='Clic'
+          texto='Click'
           esBotonDeClic={true}
           manejarClic={manejarClic} />
         <Boton 
